@@ -1,0 +1,16 @@
+creation_timestamp: 1779861623369
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1779861623369
+model_id: m-3909b9d5a8464ff0937fe9c05fa9a2c8
+name: parsh model1
+run_id: d82b64b678614d3cbc8064f4d3e20588
+run_link: ''
+source: models:/m-3909b9d5a8464ff0937fe9c05fa9a2c8
+status: READY
+status_message: null
+storage_location: file:///C:/Users/parsh/OneDrive/Desktop/mlops_series/Experiment-with-mlflow/mlruns/627567435930377463/models/m-3909b9d5a8464ff0937fe9c05fa9a2c8/artifacts
+user_id: null
+version: 4
+workspace: default

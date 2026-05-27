@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/parsh/OneDrive/Desktop/mlops_series/Experiment-with-mlflow/mlruns/627567435930377463/86099d8db17a487fa7d3a689dd3fa66b/artifacts
+end_time: 1779859684003
+entry_point_name: ''
+experiment_id: '627567435930377463'
+lifecycle_stage: active
+run_id: 86099d8db17a487fa7d3a689dd3fa66b
+run_name: blushing-ape-379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779859683891
+status: 3
+tags: []
+user_id: parsh

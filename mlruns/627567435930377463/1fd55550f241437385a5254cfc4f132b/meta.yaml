@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/parsh/OneDrive/Desktop/mlops_series/Experiment-with-mlflow/mlruns/627567435930377463/1fd55550f241437385a5254cfc4f132b/artifacts
+end_time: 1779859491896
+entry_point_name: ''
+experiment_id: '627567435930377463'
+lifecycle_stage: active
+run_id: 1fd55550f241437385a5254cfc4f132b
+run_name: treasured-shoat-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779859491781
+status: 3
+tags: []
+user_id: parsh

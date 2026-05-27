@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/parsh/OneDrive/Desktop/mlops_series/Experiment-with-mlflow/mlruns/627567435930377463/433019a65f4344d9b0ea58b7f409fc2c/artifacts
+end_time: 1779859493278
+entry_point_name: ''
+experiment_id: '627567435930377463'
+lifecycle_stage: active
+run_id: 433019a65f4344d9b0ea58b7f409fc2c
+run_name: amazing-goose-996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779859493172
+status: 3
+tags: []
+user_id: parsh

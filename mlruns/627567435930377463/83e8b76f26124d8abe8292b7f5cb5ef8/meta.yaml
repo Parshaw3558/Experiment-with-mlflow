@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/parsh/OneDrive/Desktop/mlops_series/Experiment-with-mlflow/mlruns/627567435930377463/83e8b76f26124d8abe8292b7f5cb5ef8/artifacts
+end_time: 1779859684136
+entry_point_name: ''
+experiment_id: '627567435930377463'
+lifecycle_stage: active
+run_id: 83e8b76f26124d8abe8292b7f5cb5ef8
+run_name: wise-chimp-382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779859684028
+status: 3
+tags: []
+user_id: parsh

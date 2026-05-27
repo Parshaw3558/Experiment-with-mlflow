@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/parsh/OneDrive/Desktop/mlops_series/Experiment-with-mlflow/mlruns/627567435930377463/028d33d11631402fbd81032559ff69e7/artifacts
+end_time: 1779859493148
+entry_point_name: ''
+experiment_id: '627567435930377463'
+lifecycle_stage: active
+run_id: 028d33d11631402fbd81032559ff69e7
+run_name: peaceful-elk-521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779859493016
+status: 3
+tags: []
+user_id: parsh

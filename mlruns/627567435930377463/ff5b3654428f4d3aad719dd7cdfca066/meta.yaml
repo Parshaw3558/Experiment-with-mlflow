@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/parsh/OneDrive/Desktop/mlops_series/Experiment-with-mlflow/mlruns/627567435930377463/ff5b3654428f4d3aad719dd7cdfca066/artifacts
+end_time: 1779859696253
+entry_point_name: ''
+experiment_id: '627567435930377463'
+lifecycle_stage: active
+run_id: ff5b3654428f4d3aad719dd7cdfca066
+run_name: upset-bass-6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779859675040
+status: 3
+tags: []
+user_id: parsh

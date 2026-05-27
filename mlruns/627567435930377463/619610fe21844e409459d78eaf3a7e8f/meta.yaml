@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/parsh/OneDrive/Desktop/mlops_series/Experiment-with-mlflow/mlruns/627567435930377463/619610fe21844e409459d78eaf3a7e8f/artifacts
+end_time: 1779859492448
+entry_point_name: ''
+experiment_id: '627567435930377463'
+lifecycle_stage: active
+run_id: 619610fe21844e409459d78eaf3a7e8f
+run_name: smiling-quail-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779859492339
+status: 3
+tags: []
+user_id: parsh

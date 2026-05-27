@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/parsh/OneDrive/Desktop/mlops_series/Experiment-with-mlflow/mlruns/627567435930377463/57b5d08460844046bfd23a2d860fd31f/artifacts
+end_time: 1779859683315
+entry_point_name: ''
+experiment_id: '627567435930377463'
+lifecycle_stage: active
+run_id: 57b5d08460844046bfd23a2d860fd31f
+run_name: enthused-squirrel-80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779859683173
+status: 3
+tags: []
+user_id: parsh

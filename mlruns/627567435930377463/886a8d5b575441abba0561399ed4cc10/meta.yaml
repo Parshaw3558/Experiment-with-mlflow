@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/parsh/OneDrive/Desktop/mlops_series/Experiment-with-mlflow/mlruns/627567435930377463/886a8d5b575441abba0561399ed4cc10/artifacts
+end_time: 1779859682976
+entry_point_name: ''
+experiment_id: '627567435930377463'
+lifecycle_stage: active
+run_id: 886a8d5b575441abba0561399ed4cc10
+run_name: useful-shrike-495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779859682823
+status: 3
+tags: []
+user_id: parsh

@@ -1,0 +1,10 @@
+aliases:
+  production: '4'
+  staging: '3'
+creation_timestamp: 1779860446668
+deployment_job_id: null
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1779861651384
+name: parsh model1
+workspace: default

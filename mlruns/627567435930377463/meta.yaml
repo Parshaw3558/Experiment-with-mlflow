@@ -1,0 +1,8 @@
+artifact_location: file:///C:/Users/parsh/OneDrive/Desktop/mlops_series/Experiment-with-mlflow/mlruns/627567435930377463
+creation_time: 1779859483659
+experiment_id: '627567435930377463'
+last_update_time: 1779859483659
+lifecycle_stage: active
+name: breast-cancer-rf-hp
+trace_location: null
+workspace: default

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/parsh/OneDrive/Desktop/mlops_series/Experiment-with-mlflow/mlruns/627567435930377463/2981f6993d394b1c9ebf2646d3482503/artifacts
+end_time: 1779859492572
+entry_point_name: ''
+experiment_id: '627567435930377463'
+lifecycle_stage: active
+run_id: 2981f6993d394b1c9ebf2646d3482503
+run_name: industrious-hen-631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779859492470
+status: 3
+tags: []
+user_id: parsh

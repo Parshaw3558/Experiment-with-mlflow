@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/parsh/OneDrive/Desktop/mlops_series/Experiment-with-mlflow/mlruns/627567435930377463/models/m-21346ebb3bf74b4fb4292090d3ff4e2b/artifacts
+creation_timestamp: 1779859684373
+experiment_id: '627567435930377463'
+last_updated_timestamp: 1779859696214
+model_id: m-21346ebb3bf74b4fb4292090d3ff4e2b
+model_type: null
+name: random_forest
+source_run_id: ff5b3654428f4d3aad719dd7cdfca066
+status: 2
+status_message: null
