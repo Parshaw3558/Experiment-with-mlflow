@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/790727536477902478/2d7c993d059f4270805adc40c4db9dc9/artifacts
+end_time: 1779856566989
+entry_point_name: ''
+experiment_id: '790727536477902478'
+lifecycle_stage: active
+run_id: 2d7c993d059f4270805adc40c4db9dc9
+run_name: languid-tern-669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779856555436
+status: 3
+tags: []
+user_id: parsh

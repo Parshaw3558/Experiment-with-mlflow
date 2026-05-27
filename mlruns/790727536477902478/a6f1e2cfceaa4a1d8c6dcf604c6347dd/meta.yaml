@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/790727536477902478/a6f1e2cfceaa4a1d8c6dcf604c6347dd/artifacts
+end_time: 1779856337669
+entry_point_name: ''
+experiment_id: '790727536477902478'
+lifecycle_stage: active
+run_id: a6f1e2cfceaa4a1d8c6dcf604c6347dd
+run_name: delicate-dove-715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779856336174
+status: 3
+tags: []
+user_id: parsh

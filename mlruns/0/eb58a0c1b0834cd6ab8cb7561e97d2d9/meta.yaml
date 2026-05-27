@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/eb58a0c1b0834cd6ab8cb7561e97d2d9/artifacts
+end_time: 1779856011180
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb58a0c1b0834cd6ab8cb7561e97d2d9
+run_name: traveling-asp-761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779856010012
+status: 3
+tags: []
+user_id: parsh

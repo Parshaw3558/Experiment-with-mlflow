@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/790727536477902478/872b65ba030a4e828ac210d7518851fe/artifacts
+end_time: 1779858768760
+entry_point_name: ''
+experiment_id: '790727536477902478'
+lifecycle_stage: active
+run_id: 872b65ba030a4e828ac210d7518851fe
+run_name: lyrical-crow-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779858754687
+status: 3
+tags: []
+user_id: parsh

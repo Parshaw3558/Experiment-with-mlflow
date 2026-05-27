@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c1b67cc0abe9424eb039b96f93e4870c/artifacts
+end_time: 1779856048953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1b67cc0abe9424eb039b96f93e4870c
+run_name: caring-fox-766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779856048754
+status: 3
+tags: []
+user_id: parsh

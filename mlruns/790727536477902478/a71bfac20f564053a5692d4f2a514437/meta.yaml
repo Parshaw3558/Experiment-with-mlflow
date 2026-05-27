@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/790727536477902478/a71bfac20f564053a5692d4f2a514437/artifacts
+end_time: 1779856165619
+entry_point_name: ''
+experiment_id: '790727536477902478'
+lifecycle_stage: active
+run_id: a71bfac20f564053a5692d4f2a514437
+run_name: industrious-wolf-665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779856165431
+status: 3
+tags: []
+user_id: parsh
